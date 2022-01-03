@@ -1,3 +1,2 @@
 change 1 
-idea E
-idea D 
+idea 
